@@ -1,0 +1,3 @@
+[console_scripts]
+cloudwarden = scripts.run:main
+cloudwarden-app = cloudwarden_app:main
