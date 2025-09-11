@@ -31,3 +31,34 @@ models/
 # OS
 .DS_Store
 Thumbs.db
+
+# --- Added ignores ---
+# Virtualenvs (extra names)
+.venv/
+venv-prod/
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Test & type-check caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Streamlit (secrets & local config)
+.streamlit/
+
+# Misc
+.python-version
+.ipynb_checkpoints/
+Desktop.ini
