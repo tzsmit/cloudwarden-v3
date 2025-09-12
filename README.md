@@ -615,11 +615,11 @@ spec:
 
 | Feature                             | Status         | ETA     |
 | ----------------------------------- | -------------- | ------- |
-| Multi-cloud support (Azure, GCP)    | 🚧 Development | Q2 2025 |
-| Advanced ML anomaly detection       | 📋 Planning    | Q2 2025 |
-| Real-time threat intelligence feeds | 📋 Planning    | Q3 2025 |
-| Mobile security alerts app          | 🚧 Development | Q2 2025 |
-| Kubernetes security scanning        | 📋 Planning    | Q3 2025 |
+| Multi-cloud support (Azure, GCP)    | 🚧 Development | Q3 2025 |
+| Advanced ML anomaly detection       | 📋 Planning    | Q3 2025 |
+| Real-time threat intelligence feeds | 📋 Planning    | Q4 2025 |
+| Mobile security alerts app          | 🚧 Development | Q3 2025 |
+| Kubernetes security scanning        | 📋 Planning    | Q4 2025 |
 
 ### **🌟 Future Releases (v4.0+) - 📋 PLANNED**
 
